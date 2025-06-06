@@ -1,0 +1,11 @@
+action,timestamp,word,category,language
+learn,2025-05-18 22:15:38,always,time,English
+learn,2025-05-18 22:15:41,sometimes,time,English
+learn,2025-05-18 22:15:43,where,question,English
+learn,2025-05-18 22:15:45,why,question,English
+learn,2025-05-18 22:15:47,at school,place,English
+wrong,2025-05-18 22:24:34,chair,object,English
+wrong,2025-05-18 22:24:48,father,family,English
+learn,2025-05-19 13:38:01,on the bus,place,English
+learn,2025-05-19 13:38:30,hospital,place,English
+learn,2025-05-19 13:39:10,market,place,English

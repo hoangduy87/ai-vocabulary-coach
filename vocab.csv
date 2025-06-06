@@ -1,0 +1,202 @@
+word,meaning,phonetic,language,review_count,last_review,is_mastered,last_result,example,type,category,level
+happy,vui vẻ,/ˈhæp.i/,English,1,2025-05-18,True,correct,She looks so happy.,adj,emotion,1
+rice,gạo/ cơm,raɪs,English,2,2025-05-18,True,correct,I eat rice for lunch.,noun,food,1
+chair,ghế,tʃeə(r),English,2,2025-05-18,False,wrong,He sits on a chair.,noun,object,1
+table,bàn,ˈteɪ.bəl,English,2,2025-05-18,True,correct,The book is on the table.,noun,object,1
+sun,mặt trời,sʌn,English,2,2025-05-18,True,correct,The sun is bright.,noun,nature,1
+book,sách,bʊk,English,2,2025-05-18,True,correct,She reads a book.,noun,object,1
+father,bố,ˈfɑː.ðər,English,2,2025-05-18,False,wrong,His father is tall.,noun,family,1
+hand,bàn tay,hænd,English,2,2025-05-18,True,correct,Please raise your hand before speaking.,noun,body,1
+eye,mắt,aɪ,English,2,2025-05-18,True,correct,She has big eyes.,noun,body,1
+nose,mũi,nəʊz,English,2,2025-05-18,True,correct,He touched his nose.,noun,body,1
+always,luôn luôn,ˈɔːl.weɪz,English,1,2025-05-18,False,correct,I always brush my teeth.,adverb,time,2
+sometimes,thỉnh thoảng,ˈsʌm.taɪmz,English,1,2025-05-18,False,correct,He sometimes plays football.,adverb,time,2
+where,ở đâu,weə(r),English,1,2025-05-18,False,correct,Where is my pencil?,question word,question,2
+why,tại sao,waɪ,English,1,2025-05-18,False,correct,Why are you late?,question word,question,2
+at school,ở trường,æt skuːl,English,1,2025-05-18,False,correct,They study at school.,phrase,place,2
+under,dưới,ˈʌn.dər,English,1,2025-05-18,False,correct,The cat is under the chair.,preposition,location,2
+behind,đằng sau,bɪˈhaɪnd,English,1,2025-05-18,False,correct,The boy is hiding behind the door.,preposition,location,2
+next to,bên cạnh,nekst tuː,English,1,2025-05-18,False,correct,The school is next to the bank.,preposition,location,2
+slowly,chậm rãi,ˈsləʊ.li,English,1,2025-05-18,False,correct,He walks slowly.,adverb,manner,2
+quickly,nhanh chóng,ˈkwɪk.li,English,1,2025-05-18,False,correct,She runs quickly.,adverb,manner,2
+고양이,con mèo,goyangi,Korean,1,2025-05-18,False,correct,고양이는 침대에서 자고 있어요.,noun,animal,1
+강아지,con chó,gangaji,Korean,1,2025-05-18,False,correct,강아지는 노는 것을 좋아해요.,noun,animal,1
+사과,quả táo,sagwa,Korean,1,2025-05-18,False,correct,나는 사과를 매일 먹어요.,noun,food,1
+바나나,quả chuối,banana,Korean,1,2025-05-18,False,correct,그는 바나나를 좋아해요.,noun,food,1
+달리다,chạy,dallida,Korean,1,2025-05-18,False,correct,우리는 공원에서 달려요.,verb,action,1
+milk,sữa,mɪlk,English,1,2025-05-17,False,correct,She drinks milk at breakfast.,noun,food,1
+walk,đi bộ,wɔːk,English,1,2025-05-17,False,correct,We walk to school every day.,verb,action,1
+sleep,ngủ,sliːp,English,1,2025-05-17,False,correct,Babies sleep a lot.,verb,action,1
+blue,màu xanh,bluː,English,1,2025-05-17,False,correct,She wears a blue dress.,adjective,color,1
+red,màu đỏ,red,English,1,2025-05-17,False,correct,The rose is red.,adjective,color,1
+mother,mẹ,ˈmʌð.ər,English,1,2025-05-17,False,correct,My mother is kind.,noun,family,1
+cat,con mèo,kæt,English,1,2025-05-17,False,correct,The cat is sleeping on the bed.,noun,animal,1
+dog,con chó,dɒɡ,English,1,2025-05-17,False,correct,My dog loves to play.,noun,animal,1
+apple,quả táo,ˈæp.əl,English,1,2025-05-17,False,correct,She eats an apple every morning.,noun,food,1
+banana,quả chuối,bəˈnɑː.nə,English,1,2025-05-17,False,correct,He likes bananas.,noun,food,1
+run,chạy,rʌn,English,1,2025-05-17,False,correct,They run fast in the park.,verb,action,1
+걷다,đi bộ,geotda,Korean,0,,False,,나는 학교까지 걸어요.,verb,action,1
+자다,ngủ,jada,Korean,0,,False,,아기는 많이 자요.,verb,action,1
+파랑,màu xanh,parang,Korean,0,,False,,그녀는 파란 옷을 입었어요.,adjective,color,1
+빨강,màu đỏ,ppalgang,Korean,0,,False,,장미는 빨강이에요.,adjective,color,1
+어머니,mẹ,eomeoni,Korean,0,,False,,우리 어머니는 친절해요.,noun,family,1
+아버지,bố,abeoji,Korean,0,,False,,아버지는 키가 커요.,noun,family,1
+손,bàn tay,son,Korean,0,,False,,발표 전에 손을 드세요.,noun,body,1
+눈,mắt,nun,Korean,0,,False,,그녀는 큰 눈을 가졌어요.,noun,body,1
+코,mũi,ko,Korean,0,,False,,그는 코를 만졌어요.,noun,body,1
+우유,sữa,uyu,Korean,0,,False,,그녀는 아침마다 우유를 마셔요.,noun,food,1
+밥,cơm,bap,Korean,0,,False,,점심으로 밥을 먹어요.,noun,food,1
+의자,ghế,uija,Korean,0,,False,,그는 의자에 앉았어요.,noun,object,1
+책상,bàn,chaeksang,Korean,0,,False,,책은 책상 위에 있어요.,noun,object,1
+해,mặt trời,hae,Korean,0,,False,,해가 밝아요.,noun,nature,1
+책,sách,chaek,Korean,0,,False,,그녀는 책을 읽어요.,noun,object,1
+on the bus,trên xe buýt,ɒn ðə bʌs,English,0,,False,,He sleeps on the bus.,phrase,place,2
+very happy,rất vui,ˈver.i ˈhæp.i,English,0,,False,,She looks very happy.,phrase,feeling,2
+go home,về nhà,ɡəʊ həʊm,English,0,,False,,We go home at 5 p.m.,phrase,place,2
+job,công việc,dʒɒb,English,0,,False,,He has a good job.,noun,work,2
+teacher,giáo viên,ˈtiː.tʃər,English,0,,False,,My teacher is kind.,noun,people,2
+hospital,bệnh viện,ˈhɒs.pɪ.təl,English,0,,False,,She works at a hospital.,noun,place,2
+market,chợ,ˈmɑː.kɪt,English,0,,False,,They go to the market every Sunday.,noun,place,2
+hot,nóng,hɒt,English,0,,False,,The soup is hot.,adjective,weather,2
+cold,lạnh,kəʊld,English,0,,False,,It's cold today.,adjective,weather,2
+rainy,mưa,ˈreɪ.ni,English,0,,False,,It's a rainy afternoon.,adjective,weather,2
+아래에,dưới,arae-e,Korean,0,,False,,고양이는 의자 아래에 있어요.,preposition,location,2
+뒤에,đằng sau,dwie,Korean,0,,False,,소년은 문 뒤에 숨어 있어요.,preposition,location,2
+옆에,bên cạnh,yeope,Korean,0,,False,,학교는 은행 옆에 있어요.,preposition,location,2
+천천히,chậm rãi,cheoncheonhi,Korean,0,,False,,그는 천천히 걸어요.,adverb,manner,2
+빨리,nhanh chóng,ppalli,Korean,0,,False,,그녀는 빨리 달려요.,adverb,manner,2
+항상,luôn luôn,hangsang,Korean,0,,False,,나는 항상 이를 닦아요.,adverb,time,2
+가끔,thỉnh thoảng,gakkeum,Korean,0,,False,,그는 가끔 축구를 해요.,adverb,time,2
+어디,ở đâu,eodi,Korean,0,,False,,연필이 어디에 있어요?,question word,question,2
+왜,tại sao,wae,Korean,0,,False,,왜 늦었어요?,question word,question,2
+학교에서,ở trường,hakgyo-eseo,Korean,0,,False,,우리는 학교에서 공부해요.,phrase,place,2
+버스에서,trên xe buýt,beoseu-eseo,Korean,0,,False,,그는 버스에서 자요.,phrase,place,2
+아주 행복한,rất vui,aju haengbokhan,Korean,0,,False,,그녀는 아주 행복해 보여요.,phrase,feeling,2
+집에 가다,về nhà,jibe gada,Korean,0,,False,,우리는 집에 가요.,phrase,place,2
+직업,công việc,jigeop,Korean,0,,False,,그는 좋은 직업이 있어요.,noun,work,2
+선생님,giáo viên,seonsaengnim,Korean,0,,False,,내 선생님은 친절해요.,noun,people,2
+병원,bệnh viện,byeongwon,Korean,0,,False,,그녀는 병원에서 일해요.,noun,place,2
+시장,chợ,sijang,Korean,0,,False,,우리는 일요일마다 시장에 가요.,noun,place,2
+더운,nóng,deoun,Korean,0,,False,,오늘은 더운 날이에요.,adjective,weather,2
+추운,lạnh,chuun,Korean,0,,False,,밖은 아주 추워요.,adjective,weather,2
+비 오는,mưa,bi oneun,Korean,0,,False,,오늘은 비 오는 오후예요.,adjective,weather,2
+get up,thức dậy,ɡet ʌp,English,0,,False,,I get up at 6 a.m. every day.,phrasal verb,daily routine,3
+go out,ra ngoài,ɡəʊ aʊt,English,0,,False,,We go out on weekends.,phrasal verb,daily routine,3
+put on,mặc vào,pʊt ɒn,English,0,,False,,She puts on her coat.,phrasal verb,clothes,3
+look for,tìm kiếm,lʊk fɔːr,English,0,,False,,He is looking for his keys.,phrasal verb,action,3
+turn off,tắt,tɜːn ɒf,English,0,,False,,Please turn off the lights.,phrasal verb,home,3
+light,ánh sáng / nhẹ,laɪt,English,0,,False,,This bag is light.,noun/adjective,description,3
+change,thay đổi,tʃeɪndʒ,English,0,,False,,He wants to change his job.,verb,nature,3
+bank,ngân hàng,bæŋk,English,0,,False,,She works at a bank.,noun,place,3
+watch,xem / đồng hồ,wɒtʃ,English,0,,False,,I watch TV every night.,verb/noun,time,3
+right,bên phải / đúng,raɪt,English,0,,False,,Turn right at the corner.,adjective/direction,direction,3
+forest,khu rừng,ˈfɒr.ɪst,English,0,,False,,They walked through the forest.,noun,nature,3
+pollution,ô nhiễm,pəˈluː.ʃən,English,0,,False,,Air pollution is a big issue.,noun,environment,3
+medicine,thuốc,ˈmed.ɪ.sən,English,0,,False,,Take your medicine after meals.,noun,health,3
+diet,chế độ ăn,ˈdaɪ.ət,English,0,,False,,She follows a healthy diet.,noun,health,3
+ticket,vé,ˈtɪk.ɪt,English,0,,False,,We bought two train tickets.,noun,transport,3
+luggage,hành lý,ˈlʌɡ.ɪdʒ,English,0,,False,,My luggage is heavy.,noun,travel,3
+discount,giảm giá,ˈdɪs.kaʊnt,English,0,,False,,The shop offers a big discount.,noun,shopping,3
+festival,lễ hội,ˈfes.tɪ.vəl,English,0,,False,,We went to a music festival.,noun,culture,3
+costume,trang phục,ˈkɒs.tjuːm,English,0,,False,,She wore a traditional costume.,noun,culture,3
+mall,trung tâm mua sắm,mɔːl,English,0,,False,,We met at the mall.,noun,place,3
+일어나다,thức dậy,ireonada,Korean,0,,False,,나는 매일 6시에 일어나요.,phrasal verb,daily routine,3
+나가다,ra ngoài,nagada,Korean,0,,False,,우리는 주말에 나가요.,verb,daily routine,3
+입다,mặc vào,ipda,Korean,0,,False,,그녀는 코트를 입어요.,verb,clothes,3
+찾다,tìm kiếm,chatda,Korean,0,,False,,그는 열쇠를 찾고 있어요.,verb,action,3
+끄다,tắt,kkeuda,Korean,0,,False,,불을 꺼 주세요.,verb,home,3
+가볍다,nhẹ,gabyeopda,Korean,0,,False,,이 가방은 가벼워요.,adjective,description,3
+변하다,thay đổi,byeonhada,Korean,0,,False,,그는 직업을 변하고 싶어요.,verb,nature,3
+은행,ngân hàng,eunhaeng,Korean,0,,False,,그녀는 은행에서 일해요.,noun,place,3
+보다,xem,boda,Korean,0,,False,,나는 매일 밤 TV를 봐요.,verb,time,3
+오른쪽,bên phải,oreunjjok,Korean,0,,False,,모퉁이에서 오른쪽으로 도세요.,noun,direction,3
+숲,khu rừng,sup,Korean,0,,False,,우리는 숲을 걸었어요.,noun,nature,3
+오염,ô nhiễm,oyeom,Korean,0,,False,,대기 오염은 큰 문제예요.,noun,environment,3
+약,thuốc,yak,Korean,0,,False,,식사 후에 약을 드세요.,noun,health,3
+식단,chế độ ăn,sikdan,Korean,0,,False,,그녀는 건강한 식단을 따르고 있어요.,noun,health,3
+표,vé,pyo,Korean,0,,False,,우리는 기차표를 샀어요.,noun,transport,3
+짐,hành lý,jim,Korean,0,,False,,내 짐은 무거워요.,noun,travel,3
+할인,giảm giá,harin,Korean,0,,False,,가게는 큰 할인을 제공해요.,noun,shopping,3
+축제,lễ hội,chukje,Korean,0,,False,,우리는 음악 축제에 갔어요.,noun,culture,3
+의상,trang phục,uisang,Korean,0,,False,,그녀는 전통 의상을 입었어요.,noun,culture,3
+쇼핑몰,trung tâm mua sắm,syopingmol,Korean,0,,False,,우리는 쇼핑몰에서 만났어요.,noun,place,3
+benefit,lợi ích,ˈben.ɪ.fɪt,English,0,,False,,Exercise has many health benefits.,noun,work,4
+process,quy trình,ˈprəʊ.ses,English,0,,False,,Learning is a continuous process.,noun,system,4
+require,yêu cầu,rɪˈkwaɪər,English,0,,False,,This job requires experience.,verb,work,4
+although,mặc dù,ɔːlˈðəʊ,English,0,,False,,Although it rained, we went out.,conjunction,connector
+however,tuy nhiên,haʊˈev.ər,English,0,,False,,He is tired; however, he continues.,adverb,connector
+in order to,để mà,ɪn ˈɔː.dər tuː,English,0,,False,,She studies in order to pass.,phrase,goal,4
+colleague,đồng nghiệp,ˈkɒl.iːɡ,English,0,,False,,My colleague helps me a lot.,noun,work,4
+salary,lương,ˈsæl.ər.i,English,0,,False,,He receives a high salary.,noun,work,4
+interview,phỏng vấn,ˈɪn.tə.vjuː,English,0,,False,,He has a job interview tomorrow.,noun,career,4
+employee,nhân viên,ɪmˈplɔɪ.iː,English,0,,False,,The company has 100 employees.,noun,work,4
+crime,tội phạm,kraɪm,English,0,,False,,Crime is a serious problem.,noun,law,4
+judge,thẩm phán,dʒʌdʒ,English,0,,False,,The judge made a fair decision.,noun,law,4
+law,luật,lɔː,English,0,,False,,Everyone must follow the law.,noun,law,4
+news,tin tức,njuːz,English,0,,False,,He watches the news daily.,noun,media,4
+report,báo cáo,rɪˈpɔːt,English,0,,False,,She wrote a business report.,noun,media,4
+broadcast,phát sóng,ˈbrɔːd.kɑːst,English,0,,False,,They broadcast the event live.,verb,media,4
+curriculum,chương trình học,kəˈrɪk.jə.ləm,English,0,,False,,The curriculum includes math and science.,noun,education,4
+subject,môn học,ˈsʌb.dʒekt,English,0,,False,,My favorite subject is English.,noun,education,4
+degree,bằng cấp,dɪˈɡriː,English,0,,False,,He has a law degree.,noun,education,4
+system,hệ thống,ˈsɪs.təm,English,0,,False,,The school system needs improvement.,noun,education,4
+이익,lợi ích,iik,Korean,0,,False,,운동은 건강에 많은 이익이 있어요.,noun,work,4
+과정,quy trình,gwajeong,Korean,0,,False,,학습은 계속되는 과정이에요.,noun,system,4
+요구하다,yêu cầu,yoguhada,Korean,0,,False,,이 일은 경험을 요구해요.,verb,work,4
+비록 ~지만,mặc dù,birok ~jiman,Korean,0,,False,,비록 비가 왔지만 우리는 나갔어요.,conjunction,connector,4
+하지만,tuy nhiên,hajiman,Korean,0,,False,,그는 피곤하지만 계속해요.,adverb,connector,4
+~하기 위해,để mà,hagi wihae,Korean,0,,False,,합격하기 위해 공부해요.,phrase,goal,4
+동료,đồng nghiệp,dongnyo,Korean,0,,False,,저는 좋은 동료들이 있어요.,noun,work,4
+월급,lương,wolgeup,Korean,0,,False,,그녀는 높은 월급을 받아요.,noun,work,4
+면접,phỏng vấn,myeonjeop,Korean,0,,False,,그는 내일 면접이 있어요.,noun,career,4
+직원,nhân viên,jigwon,Korean,0,,False,,그 회사에는 많은 직원이 있어요.,noun,work,4
+범죄,tội phạm,beomjoe,Korean,0,,False,,범죄는 심각한 문제예요.,noun,law,4
+판사,thẩm phán,pansa,Korean,0,,False,,그 판사는 공정해요.,noun,law,4
+법,luật,beop,Korean,0,,False,,모든 사람은 법을 따라야 해요.,noun,law,4
+뉴스,tin tức,nyuseu,Korean,0,,False,,그는 매일 뉴스를 봐요.,noun,media,4
+보고서,báo cáo,bogoseo,Korean,0,,False,,그녀는 보고서를 썼어요.,noun,media,4
+방송하다,phát sóng,bangsonghada,Korean,0,,False,,그들은 행사를 생방송했어요.,verb,media,4
+교육과정,chương trình học,gyoyuk gwajeong,Korean,0,,False,,교육과정에는 수학과 과학이 포함돼요.,noun,education,4
+과목,môn học,gwamok,Korean,0,,False,,내가 가장 좋아하는 과목은 영어예요.,noun,education,4
+학위,bằng cấp,hakwi,Korean,0,,False,,그는 법학 학위를 가지고 있어요.,noun,education,4
+시스템,hệ thống,siseutem,Korean,0,,False,,학교 시스템을 개선해야 해요.,noun,education,4
+infrastructure,cơ sở hạ tầng,ˈɪn.frəˌstrʌk.tʃər,English,0,,False,,The country needs better infrastructure.,noun,system,5
+implication,hàm ý,ˌɪm.plɪˈkeɪ.ʃən,English,0,,False,,This decision has serious implications.,noun,education,5
+legislation,pháp luật,ˌledʒ.ɪˈsleɪ.ʃən,English,0,,False,,New legislation was introduced.,noun,law,5
+perspective,quan điểm,pəˈspek.tɪv,English,0,,False,,We need a new perspective.,noun,education,5
+crucial,cốt yếu,ˈkruː.ʃəl,English,0,,False,,Time management is crucial.,adjective,education,5
+conduct research,tiến hành nghiên cứu,ˈkɒn.dʌkt rɪˈsɜːtʃ,English,0,,False,,They conduct research on climate change.,collocation,education,5
+make a decision,đưa ra quyết định,meɪk ə dɪˈsɪʒ.ən,English,0,,False,,He made an important decision.,collocation,work,5
+raise awareness,nâng cao nhận thức,reɪz əˈweə.nəs,English,0,,False,,We must raise awareness about pollution.,collocation,media,5
+face a challenge,đối mặt thử thách,feɪs ə ˈtʃæl.ɪndʒ,English,0,,False,,She faced a big challenge.,collocation,emotion,5
+reach an agreement,đạt được thỏa thuận,riːtʃ ən əˈɡriː.mənt,English,0,,False,,They reached an agreement.,collocation,work,5
+accurate,chính xác,ˈæk.jə.rət,English,0,,False,,We need accurate data.,adjective,education,5
+efficient,hiệu quả,ɪˈfɪʃ.ənt,English,0,,False,,She is a very efficient worker.,adjective,work,5
+sustainable,bền vững,səˈsteɪ.nə.bəl,English,0,,False,,We must adopt sustainable practices.,adjective,system,5
+priority,ưu tiên,praɪˈɒr.ə.ti,English,0,,False,,Education is a top priority.,noun,education,5
+collaboration,hợp tác,kəˌlæb.əˈreɪ.ʃən,English,0,,False,,They work in close collaboration.,noun,work,5
+implement,triển khai,ˈɪm.plɪ.ment,English,0,,False,,The plan was implemented well.,verb,work,5
+monitor,theo dõi,ˈmɒn.ɪ.tər,English,0,,False,,We monitor student progress.,verb,education,5
+evaluate,đánh giá,ɪˈvæl.ju.eɪt,English,0,,False,,We need to evaluate the results.,verb,education,5
+enhance,tăng cường,ɪnˈhɑːns,English,0,,False,,Training enhances skills.,verb,work,5
+achievement,thành tựu,əˈtʃiːv.mənt,English,0,,False,,Winning the award is a great achievement.,noun,education,5
+인프라,cơ sở hạ tầng,inpura,Korean,0,,False,,국가는 더 나은 인프라가 필요해요.,noun,system,5
+의미,hàm ý,uimi,Korean,0,,False,,이 결정은 중요한 의미를 가지고 있어요.,noun,education,5
+입법,pháp luật,ipbeop,Korean,0,,False,,새로운 입법이 도입되었어요.,noun,law,5
+관점,quan điểm,gwanjeom,Korean,0,,False,,우리는 새로운 관점이 필요해요.,noun,education,5
+중요한,cốt yếu,jungyohan,Korean,0,,False,,시간 관리가 중요해요.,adjective,education,5
+연구하다,tiến hành nghiên cứu,yeonguhada,Korean,0,,False,,그들은 기후 변화에 대해 연구해요.,verb,education,5
+결정하다,đưa ra quyết định,gyeoljeonghada,Korean,0,,False,,그는 중요한 결정을 했어요.,verb,work,5
+인식 높이다,nâng cao nhận thức,insik nopida,Korean,0,,False,,우리는 오염에 대한 인식을 높여야 해요.,phrase,media,5
+도전하다,đối mặt thử thách,dojeonhada,Korean,0,,False,,그녀는 큰 도전을 마주했어요.,verb,emotion,5
+합의하다,đạt được thỏa thuận,hapuihada,Korean,0,,False,,그들은 합의에 도달했어요.,verb,work,5
+정확한,chính xác,jeonghwakan,Korean,0,,False,,정확한 데이터가 필요해요.,adjective,education,5
+효율적인,hiệu quả,hyo-yuljeogin,Korean,0,,False,,그녀는 매우 효율적으로 일해요.,adjective,work,5
+지속 가능한,bền vững,jisok ganeunghan,Korean,0,,False,,지속 가능한 방법을 채택해야 해요.,adjective,system,5
+우선순위,ưu tiên,useonsunwi,Korean,0,,False,,교육은 가장 높은 우선순위예요.,noun,education,5
+협력,hợp tác,hyeobryeok,Korean,0,,False,,그들은 긴밀히 협력해요.,noun,work,5
+실행하다,triển khai,silhaenghada,Korean,0,,False,,계획이 잘 실행되었어요.,verb,work,5
+모니터하다,theo dõi,moniteohada,Korean,0,,False,,우리는 학생의 진도를 모니터해요.,verb,education,5
+평가하다,đánh giá,pyeonggahada,Korean,0,,False,,우리는 결과를 평가해야 해요.,verb,education,5
+향상시키다,tăng cường,hyangsang sikida,Korean,0,,False,,교육은 기술을 향상시켜요.,verb,work,5
+성과,thành tựu,seonggwa,Korean,0,,False,,상을 받은 것은 큰 성과예요.,noun,education,5
